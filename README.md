@@ -1,4 +1,4 @@
 # Weather-App
-Build a weather app that fetches and displays real-time weather data based on city name and country name entered by user.
+Build a weather app that fetches and displays real-time weather data based on city name and country name entered by user. <hr>
 Tech Stack Used : HTML, CSS, JAVASCRIPT
 Learned Concepts : FETCH-API, DOM-MANIPULATION, REAL-TIME-CHANGES, CSS CONCEPTS, DATA-HANDLING, UI-UPDATION.
